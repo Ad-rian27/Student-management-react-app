@@ -77,6 +77,72 @@ const ViewStudents = () => {
                                 </div>
 
                             </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://randomuser.me/api/portraits/men/1.jpg" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Admission No: ADM1001</h6>
+                                        <h6 class="card-title">Name: Aarav Sharma</h6>
+                                        <h6 class="card-title">Class: 10</h6>
+                                        <a href="#" class="btn btn-success">Select</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://randomuser.me/api/portraits/men/1.jpg" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Admission No: ADM1001</h6>
+                                        <h6 class="card-title">Name: Aarav Sharma</h6>
+                                        <h6 class="card-title">Class: 10</h6>
+                                        <a href="#" class="btn btn-success">Select</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://randomuser.me/api/portraits/men/1.jpg" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Admission No: ADM1001</h6>
+                                        <h6 class="card-title">Name: Aarav Sharma</h6>
+                                        <h6 class="card-title">Class: 10</h6>
+                                        <a href="#" class="btn btn-success">Select</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://randomuser.me/api/portraits/men/1.jpg" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Admission No: ADM1001</h6>
+                                        <h6 class="card-title">Name: Aarav Sharma</h6>
+                                        <h6 class="card-title">Class: 10</h6>
+                                        <a href="#" class="btn btn-success">Select</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://randomuser.me/api/portraits/men/1.jpg" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Admission No: ADM1001</h6>
+                                        <h6 class="card-title">Name: Aarav Sharma</h6>
+                                        <h6 class="card-title">Class: 10</h6>
+                                        <a href="#" class="btn btn-success">Select</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            
                         </div>
 
                     </div>
