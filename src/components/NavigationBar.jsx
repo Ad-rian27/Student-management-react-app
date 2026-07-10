@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const NavigationBar = () => {
     return (
@@ -12,9 +13,9 @@ const NavigationBar = () => {
             >
                 <div className="container-fluid">
 
-                    <a
+                    <Link
                         className="navbar-brand fw-bold"
-                        href="/"
+                        to="/"
                         style={{
                             color: "white",
                             fontSize: "28px",
@@ -22,7 +23,7 @@ const NavigationBar = () => {
                         }}
                     >
                         🎓 Student Portal
-                    </a>
+                    </Link>
 
                     <button
                         className="navbar-toggler bg-light"
@@ -39,9 +40,9 @@ const NavigationBar = () => {
                     >
                         <div className="navbar-nav">
 
-                            <a
+                            <Link
                                 className="nav-link mx-2"
-                                href="/"
+                                to="/"
                                 style={{
                                     color: "white",
                                     fontWeight: "600",
@@ -51,11 +52,11 @@ const NavigationBar = () => {
                                 }}
                             >
                                 ➕ Add Student
-                            </a>
+                            </Link>
 
-                            <a
+                            <Link
                                 className="nav-link mx-2"
-                                href="/search"
+                                to="/search"
                                 style={{
                                     color: "white",
                                     fontWeight: "600",
@@ -63,11 +64,11 @@ const NavigationBar = () => {
                                 }}
                             >
                                 🔍 Search Student
-                            </a>
+                            </Link>
 
-                            <a
+                            <Link
                                 className="nav-link mx-2"
-                                href="/delete"
+                                to="/delete"
                                 style={{
                                     color: "white",
                                     fontWeight: "600",
@@ -75,11 +76,11 @@ const NavigationBar = () => {
                                 }}
                             >
                                 🗑 Delete Student
-                            </a>
+                            </Link>
 
-                            <a
+                            <Link
                                 className="nav-link mx-2"
-                                href="/view"
+                                to="/view"
                                 style={{
                                     color: "white",
                                     fontWeight: "600",
@@ -87,7 +88,7 @@ const NavigationBar = () => {
                                 }}
                             >
                                 👨‍🎓 View Students
-                            </a>
+                            </Link>
 
                         </div>
                     </div>
